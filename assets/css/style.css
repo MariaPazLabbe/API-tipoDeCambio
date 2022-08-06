@@ -1,0 +1,38 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+div.container{
+margin-top: 2rem;
+}
+canvas.canvas{
+  display: flex;
+  margin-top: 2rem;
+margin-left: 12rem;
+}
+
+button.btn{
+  margin-bottom: 2rem;
+  width: 13rem;
+  
+}
+input{
+  width: 13rem;
+}
+
+p.money{
+  margin-top: 0.6rem;
+  color: grey;
+}
+
+select.selector{
+  height: 5vh;
+}
+div.card-header{
+  font-size:larger;
+
+}
+p.result{
+  margin-top: 1rem;
+  font-size:x-large;
+}
